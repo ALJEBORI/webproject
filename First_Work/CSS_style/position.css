@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+div#enTete{
+	width:900px;
+	height:150px;
+	top:0;
+	left:0;
+	background-color:red;
+}
+
+div#center{
+	width:900px;
+	top:150;
+	left:0;
+	background-color:white;
+}
+
+div#navigation{
+	width:150px;
+	top:150;
+	left:0;
+	background-color:green;
+}
+
+div#contenu{
+	width:600px;
+	top:150;
+	left:150;
+	background-color:blue;
+}
+
+div#publicite{
+	width:150px;
+	top:150;
+	left:150;
+	background-color:yellow;
+}
+
+div#piedsPage{
+	width:900px;
+	top:150;
+	left:0;
+	background-color:silver;
+}

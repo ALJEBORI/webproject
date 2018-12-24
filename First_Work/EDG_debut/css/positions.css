@@ -1,0 +1,147 @@
+		#general {
+		   position : relative;
+		   margin : auto;
+		   width : 900px;
+		   height : 500px;
+		   background-color : #AFAFAF;
+		   z-index : 10;
+		}
+		
+		#bandeau {
+		   position : absolute;
+		   left : 0px;
+		   top : 0px;
+		   width : 900px;
+		   height : 150px;
+		   background-color : yellow;
+		   background-image : url(../images/fondBandeauHaut.jpg);
+		   background-repeat : repeat-x;
+		}
+		
+		#basLogo {
+			position : absolute;
+			left : 0px;
+			top : 0px;
+			width : 300px;
+			height : 300px;
+			background-image : url(../images/basLogo.png);
+			background-repeat : no-repeat;
+			background-position : 76px 150px;
+			z-index : -1;
+		}
+		
+		#corpsDePage {
+		   position : absolute;
+		   left : 0px;
+		   top : 150px;
+		   width : 900px;
+		   height : 350px;
+		   background-color : green;
+		   z-index : 10;
+		}
+		
+		#navigation {
+		   position : absolute;
+		   left : 0px;
+		   top : 0px;
+		   width : 169px;
+		   height : 300px;
+		   background-color : red;
+		   border-right : dotted 1px #666;
+		   margin-top : 30px;
+		   padding : 10px;
+		}
+		
+		#miettesDePain {
+		   position : absolute;
+		   left : 200px;
+		   top : 0px;
+		   width : 500px;
+		   height : 20px;
+		   background-color : #C36;
+		}
+		
+		#contenu {
+		   position : absolute;
+		   left : 200px;
+		   top : 20px;
+		   width : 500px;
+		   z-index : 10;
+		 /*  height : 330px;  *** suppression pour adaptation au contenu */
+		 background-color : #CCC;
+		 /*  overflow : auto; *** pour la gestion de l'ascenseur */
+		}
+		
+		#pub {
+		   position : absolute;
+		   left : 700px;
+		   top : 0px;
+		   width : 169px;
+		   height : 310px;
+		   background-color : #EEE;
+		   text-align : center;
+		   border-left : dotted 1px #666;
+		   margin-top : 30px;
+		   margin-left : 10px;
+		   padding : 10px;
+		   z-index : 10;
+		}
+		
+		#piedDePage {
+		   position : relative;
+		   left : -200px;
+		   top : 20px;
+		   width : 900px;
+		   height : 70px;
+		   background-color : #CCC;
+		   z-index : -1;	
+		}
+		
+		#fondPiedDePage {
+		   position : absolute;
+		   left : 0px;
+		   top : 0px;
+		   width : 900px;
+		   height : 70px;
+		   background-image : url(../images/fondPiedDePage.png);
+		   z-index : 1;		
+		}
+		
+		#globe {
+			position : absolute;
+			left : 450px;
+			top : -330px;
+			width : 479px;
+			height : 374px;
+			background-image : url(../images/globePiedDePage.png);
+			z-index : -5;
+		}
+		
+		#pageCatalogue {
+			width : 500px;
+			height : 300px;
+			background-color : yellow;
+		}
+		
+		
+		/*------ Suppression des couleurs d'arriere-plan */
+		#general,
+		#bandeau,
+		#piedDePage,
+		#corpsDePage,
+		#navigation,
+		#contenu,
+		#miettesDePain,
+		#pageCatalogue,
+		#pub
+		{	
+			background-color : transparent;
+		}
+		
+		
+		
+		
+		
+		
+		
+		

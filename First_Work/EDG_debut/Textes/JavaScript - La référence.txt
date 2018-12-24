@@ -1,0 +1,61 @@
+Caractéristiques
+JavaScript - La référence
+
+Editeur(s) : O'Reilly
+Auteur(s) : D. Flanagan
+Collection : 
+Profil : Développeur, Etudiant
+Niveau : 
+ Parution : 18/01/2007
+Edition : 5e edition
+Nb de pages : 1042 pages
+Format : 18 x 24
+Couverture : Broché
+Poids : 1590 g
+Intérieur : Noir et Blanc
+ Type produit : Livre
+Langue : Français
+ISBN10 : 2-84177-415-5
+ISBN13 : 978-2-84177-415-9
+EAN13 : 9782841774159
+Inclus : 
+ 
+
+Présentation par l'éditeur
+JavaScript est un des langages de programmation pour le Web que l'on pourrait qualifier d'incontournable. Principal langage côté client, il se pose comme un composant clé du développement web. Cette cinquième édition a été revue et mise à jour de manière à expliquer comment utiliser ce langage dans des applications Web 2.0.
+
+À la fois théorique et très pratique, du fait des nombreux exemples, JavaScript - La référence s'organise autour de quatre parties qui en font un ouvrage exhaustif. Cette nouvelle édition s'enrichit à chacune d'entre elles et reflète désormais l'essor de nouvelles techniques, telles qu'Ajax.
+
+Une première partie détaille le coeur du langage. Elle donne les informations de bases (données, valeurs, opérateurs, etc.) et les spécificités du langage (objets, tableaux, etc.). Les fonctions imbriquées et les fermetures, les espaces de noms comptent, par exemple, parmi les nouveaux sujets traités. Les nouveaux venus à JavaScript y apprendront les concepts fondamentaux et les autres en profiteront pour approfondir leurs connaissances. 
+Une seconde partie aborde l'environnement de programmation qu'offrent les navigateurs web, en insistant plus particulièrement sur DOM et sur du JavaScript que l'on pourrait qualifier de non-intrusif. De nouveaux sujets enrichissent cette partie sur JavaScript côté client : les cookies, HTTP, XML, les graphiques, les applets Java et les animations Flash. De nombreux exemples illustrent ces sujets ainsi que ceux relatifs aux animations DHTML, à la manière d'utiliser XPath et XSLT sur des documents XML téléchargés avec Ajax, etc. 
+Les deux dernières parties se composent de sections de référence. De notables modifications y ont également été apportées. La première concerne les objets du noyau de JavaScript et les constantes définies depuis JavaScript 1.5 et ECMAScript version 3. La seconde documente JavaScript côté client, les API des navigateurs, l'API DOM niveau 2, ainsi que les nouveaux standards comme XMLHttpRequest et la balise <canvas>. 
+Cet ouvrage est la référence sur JavaScript. Véritable encyclopédie, reconnue des spécialistes du monde entier, il s'adresse à tous ceux qui développent pour le Web, qu'ils soient programmeurs, webmaster ou designer.
+
+Au sommaire
+Introduction à JavaScript 
+Noyau JavaScript 
+Structure lexicale 
+Type de données et valeurs 
+Variables 
+Expressions et opérateurs 
+Instructions 
+Objets et tableaux 
+Fonctions 
+Classes, constructeurs et prototypes 
+Module et espaces de noms 
+Correspondance de motifs avec des expressions régulières 
+Du Javascript dans Java 
+JavaScript côté client 
+Javascript dans les navigateurs Web 
+Fenêtres du navigateur 
+L'objet document 
+CSS et dynamic HTML 
+Gestion des événements 
+Formulaires et éléments de formulaires 
+Cookies et persistance coté client 
+Scripts HTTP 
+Javascript et XML 
+Scripts pour graphiques coté client 
+Scripts pour applet Java et navigation flash 
+Référence du noyau JavaScript 
+Référence JavaScript côté client 

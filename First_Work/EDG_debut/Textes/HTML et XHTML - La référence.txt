@@ -1,0 +1,69 @@
+Caractéristiques
+HTML et XHTML - La référence
+
+Editeur(s) : O'Reilly
+Auteur(s) : C. Musciano, B. Kennedy
+Collection : 
+Profil : 
+Niveau : 
+ Parution : 14/06/2007
+Edition : 6e edition
+Nb de pages : 624 pages
+Format : 18 x 24
+Couverture : Broché
+Poids : 960 g
+Intérieur : Noir et Blanc
+ Type produit : Livre
+Langue : Français
+ISBN10 : 2-84177-419-8
+ISBN13 : 978-2-84177-419-7
+EAN13 : 9782841774197
+Inclus : 
+ 
+
+Présentation par l'éditeur
+Les navigateurs évoluent, les standards du Web également, sans pour autant être toujours en phase. Ainsi, qui a su maîtriser la création de pages web avec Internet Explorer 5.0 pourra se trouver désorienté avec la version 7. Il devient alors difficile de s'y retrouver et de savoir quoi utiliser.
+
+Ce guide est l'ouvrage de référence le plus complet à ce jour sur HTML et XHTML. Il adopte de bout en bout une approche concrète et pratique de ces deux langages. Fourmillant d'exemples, d'extraits de code et de conseils pratiques, il est l'outil idéal pour créer des pages web véritablement efficaces et maîtriser les techniques avancées. Vous trouverez dans cet ouvrage comment :
+
+Créer des tableaux, du plus simple au plus complexe 
+Coordonner un ensemble de documents à l'aide de cadres 
+Construire des éléments dynamiques dans vos pages 
+Tirer profit des CSS pour contrôler l'apparence de vos documents quel que soit le navigateur 
+Insérer images, sons, vidéos, applets Java et programmes JavaScript 
+Mettre en forme tous les types de listes 
+Créer des formulaires efficaces 
+Écrire des pages pour les appareils mobiles (téléphones, PDA) 
+Utiliser XHTML 
+Cette sixième édition aborde les dernières versions des standards (HTML 41.01, XHTML 1.0, CSS2) ainsi que ceux à venir (CSS3 et XHTML2). De plus, en suivant les conseils des auteurs vos pages auront un impact réel sur l'internaute qui ne sera pas décontenancé devant vos présentations.
+
+Parler couramment les langages du Web est un long chemin ; la mise en pages est essentielle, tout comme la hiérarchie de présentation des pages. Cet ouvrage vise ainsi à ce que la syntaxe de HTML et XHTML, ainsi que les éléments de style, n'aient plus de secrets pour vous. Les auteurs proposent des suggestions de styles et de mise en pages qu'il s'agisse de pages web simples ou nettement plus élaborées et professionnelles. Ils montrent ce qui marche et ne marche pas avec les différents navigateurs (IE 6/7, Firefox, Safari, Opera).
+
+Que vous soyez webmaster occasionnel ou professionnel, ou encore développeur devant produire du HTML, cet ouvrage vous permettra de créer des pages efficaces et accessibles et de maîtriser HTML et XHTML.
+
+Au sommaire
+HTML, XHTML et la Toile mondiale 
+Initiation 
+Anatomie d'un document HTML 
+Mise en formes des textes 
+Lignes, images et éléments multimédias 
+Liens et Web 
+Mise en forme des listes 
+Feuilles de style en cascade 
+Formulaires 
+Tableaux 
+Cadres 
+Contenu exécutable 
+Pages dynamiques 
+Appareils mobiles 
+XML 
+XHTML 
+Trucs, astuces et hacks 
+A. Grammaire HTML 
+B. Guide de référence rapide des balises HTML/XHTML 
+C. Guide de référence sur les CSS 
+D. La DTD de HTML 4.01 
+E. La DTD XHTML 1.0 
+F. Entités de caractères 
+G. Noms et valeurs de couleur 
+Index 

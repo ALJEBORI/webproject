@@ -1,0 +1,47 @@
+Caractéristiques
+CSS par l'exemple
+
+Editeur(s) : O'Reilly
+Auteur(s) : C. Schmitt
+Collection : 
+Profil : 
+Niveau : 
+ Parution : 22/03/2007
+Edition : 1ère edition
+Nb de pages : 528 pages
+Format : 
+Couverture : Broché
+Poids : 840 g
+Intérieur : Noir et Blanc
+ Type produit : Livre
+Langue : Français
+ISBN10 : 2-84177-432-5
+ISBN13 : 978-2-84177-432-6
+EAN13 : 9782841774326
+Inclus : 
+ 
+
+Présentation par l'éditeur
+CSS par l'exemple laisse de côté la théorie et vous propose des recettes directement utilisables.
+
+Cet ouvrage explore des sujets aussi divers que la typographie, les menus, les feuilles de styles pour l'impression, les outils comme Dreamweaver et Microsoft Expression Web Designer, le test des sites.
+
+Un livre indispensable à quiconque souhaite réaliser des pages web efficaces et permet de gagner un temps inestimable en fournissant des solutions à des problèmes fréquents.
+
+Au sommaire
+Généralités 
+Typographie pour le Web 
+Images 
+Eléments de page 
+Listes 
+Liens et navigation 
+Formulaires 
+Tableaux 
+Mise en pages 
+Impression 
+Astuces, solutions de rechange et dépannage 
+Conception avec CSS 
+Ressources 
+Propriétés CSS 2.1 et extensions particulières 
+Sélecteurs, pseudo-classes et pseudo-éléments CSS 2.1 
+Styler les éléments de formulaire 

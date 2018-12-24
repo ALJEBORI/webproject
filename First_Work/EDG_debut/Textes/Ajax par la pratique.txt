@@ -1,0 +1,60 @@
+Caractéristiques
+Ajax par la pratique
+
+Editeur(s) : O'Reilly
+Auteur(s) : J. Gehtland, B. Galbraith, D. Almaer
+Collection : 
+Profil : Développeur, Etudiant
+Niveau : Intermédiaire
+ Parution : 25/05/2006
+Edition : 1ère edition
+Nb de pages : 260 pages
+Format : 17 x 24
+Couverture : Broché
+Poids : 490 g
+Intérieur : Noir et Blanc
+ Type produit : Livre
+Langue : Français
+ISBN10 : 2-84177-387-6
+ISBN13 : 978-2-84177-387-9
+EAN13 : 9782841773879
+Inclus : 
+ 
+
+Présentation par l'éditeur
+Ajax s'est imposé comme technique privilégiée de programmation d'interfaces depuis l'essor des applications orientées Web, et particulièrement Web 2.0. Le code côté client redevient un élément fondamental de l'interaction avec les services Web, et les bibliothèques JavaScript facilitant les interactions entre les utilisateurs et les serveurs de données fleurissent pour toutes les plates-formes.
+
+Ajax par la pratique se veut aussi complet que possible sur les différents moyens de mettre en oeuvre Ajax, indépendamment du navigateur, et quelle que soit l'architecture utilisée. Vous apprendrez bien sûr à maîtriser le comportement de l'objet XMLHttpRequest sur toutes les plates-formes, mais vous vous familiariserez surtout avec les bibliothèques et APIs les plus intéressantes comme Script.aculo.us, Prototype, Dojo, ou E4X.
+
+Voici un extrait de la table des matières, qui vous donnera un avant-goût des thèmes abordés en détails dans cet ouvrage :
+
+Fonctionnement d'Ajax 
+Principaux toolkits Ajax 
+Ajaxifier une application 
+Déboguer une application Ajax 
+Ajax en mode dégradé 
+JSON et JSON-RPC 
+Ajax et Java 
+Ajax et PHP 
+Ajax et Rails 
+Ajax en mode proxy avec DWR 
+ASP.NET et Atlas 
+Vous apprendrez même les grands principes de la programmation d'interface en JavaScript grâce à une étude en profondeur du fonctionnement de Google Maps. Ce livre est particulièrement adapté aux programmeurs, mais les architectes et les designers y puiseront aussi l'inspiration nécessaire à la conception des applications Web de demain.
+
+Au sommaire
+Créer des application Internet avec Ajax 
+Créer des cartes Google 
+Ajax en action 
+Présentation d'Ajax 
+Environnements Ajax 
+Ajax et l'interface utilisateur, partie 1 
+Ajax et l'interface utilisateur, partie 2 
+Débogaee des applications Ajax 
+Ajax en mode dégradé 
+JSON et JSON-RPC 
+Intégration côté serveur 
+Ajax avec PHP 
+Ajax dans Rails 
+Proxies Ajax avec DWR 
+ASP.NET et Atlas 
+L'avenir d'Ajax 
